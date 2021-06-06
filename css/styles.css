@@ -1,7 +1,11 @@
+body{
+    background-color: antiquewhite;
+}
+
 h1 {
   color: red;
 }
 
 h2 {
-  color: blue;
+  color: green;
 }
